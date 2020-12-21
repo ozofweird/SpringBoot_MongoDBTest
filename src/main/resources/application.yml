@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      host: [호스트 IP]
+      port: 27017
+      authentication-database: admin
+      username: root
+      password: [비밀번호]
+      database: tutorial
+      # uri: mongodb://localhost:27017/tutorial
